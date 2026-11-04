@@ -2,10 +2,10 @@
 
 ## Informations personnelles
 
-- Nom : [Niang]
-- Prénom : [Baba]
-- Classe : [Developpement Back End]
-- Distribution Linux : [Ubuntu]
+- Nom : Niang
+- Prénom : Baba
+- Classe : Developpement Back End
+- Distribution Linux : Ubuntu
 
 ## Description
 
